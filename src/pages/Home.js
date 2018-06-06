@@ -79,7 +79,7 @@ class Home extends Component {
                                         <div className="video col">
                                             <div className="image fit" data-video="images/qv_clip">
                                                 {/*<img src="images/quant3.jpg" alt=""/>*/}
-                                                <video autoPlay loop>
+                                                <video autoPlay loop muted>
                                                     <source src="images/qv_clip.webm"/>
                                                     <source src="images/qv_clip.mp4"/>
                                                 </video>
@@ -130,7 +130,7 @@ class Home extends Component {
                                         <div className="video col">
                                             <div className="image fit">
                                                 {/*<img src="images/kaiju2.jpg" alt=""/>*/}
-                                                <video autoPlay loop>
+                                                <video autoPlay loop muted>
                                                     <source src="images/kaiju_clip.webm"/>
                                                     <source src="images/kaiju_clip.mp4"/>
                                                 </video>
@@ -157,7 +157,7 @@ class Home extends Component {
                                         </div>
                                         <div className="video col">
                                             <div className="image fit" >
-                                                <video autoPlay loop>
+                                                <video autoPlay loop muted>
                                                     <source src="images/livepainter_clip.webm"/>
                                                     <source src="images/livepainter_clip.mp4"/>
                                                 </video>
