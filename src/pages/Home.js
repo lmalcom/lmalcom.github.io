@@ -39,7 +39,7 @@ class Home extends Component {
                                 </div>
                                 <div className="video col">
                                     <div className="image fit height-6">
-                                        <img height="100%" width="auto" src="images/phos_logo.png" alt=""/>
+                                        <img src="images/phos_logo.png" alt=""/>
                                     </div>
                                     <p className="caption">
                                         Phosphorus - Genomics & Healthcare
