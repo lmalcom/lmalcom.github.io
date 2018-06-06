@@ -9,4 +9,15 @@
     margin: auto;
 }
 
+.pattern-overlay {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    opacity: 1;
+    bottom: 0;
+    background: url(https://hubskills.com/lines-1.png) repeat, url(https://hubskills.com/bg-1.png) !important;
+    background-position: left top;
+    z-index: 1;
+}
+
 

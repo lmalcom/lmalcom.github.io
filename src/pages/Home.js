@@ -5,7 +5,7 @@ class Home extends Component {
     render() {
         return (
             <div>
-                <section id="banner" data-video="images/lerenzo_website">
+                <section id="banner" data-video="images/lerenzo_website" className="pattern-overlay">
                     <div className="inner">
                         <header>
                             <h1>LeRenzo Malcom</h1>
